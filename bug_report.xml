@@ -1,1 +1,16 @@
-
+<?xml version="1.0"?>
+  <list_of_items>
+    <item id="Title"><first/>Success page: title doesn't appears</item>
+    <item id="Status">Open</item>
+    <item id="Severity">4 – Minor</item>
+    <item id="Priority">High</item>
+    <item id="Progect">Simba</item>
+    <item id="Inviroment">MacOS Monterey 12.3.1, Safari 15.4</item>
+    <item id="Component">Success page</item>
+    <item id="Version">1.0</item>
+    <item id="Issue type">BUG</item>
+    <item id="Preconditions">Import cookies.txt from attachment</item>
+    <item id="Steps">1 ____; 2 ____; 3 ____</item>
+    <item id="Actual result"><last/>Title doesn't appear</item>
+    <item id="Expected result"><last/>Title appears</item>
+  </list_of_items>
