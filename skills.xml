@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<list_of_items>
+	<item id="1"><first/>1. Bazovaya teoriya (CHto takoe testirovanie, bagreporty, dokumentaciya, vidy, metody, napravleniya testirovaniya i t.p.) SDLC, STLC.</item>
+	<item id="2">2. CHto takoe klient-servernaya arhitektura.</item>
+	<item id="3">3. HTTP Metody zaprosov na server.</item>
+	<item id="4">4. Kody otvetov HTTP servera.</item>
+	<item id="5">5. Struktury HTTP zaprosov i otvetov.</item>
+	<item id="6">6. CHto takoe JSON, XML. Ih struktura.</item>
+	<item id="7">7. Testirovanie API cherez Postman (JS, avtotesty API).</item>
+	<item id="8">8. Snyatie i chtenie logov c vneshnego servera.</item>
+	<item id="9">9. Snifing http web trafika cherez Charles i Fiddler.</item>
+	<item id="10">10. Dev Tools veb brauzerov (Google Chrome, FireFox).</item>
+	<item id="11">11. VPN. (Kak rabotaet, zachem nuzhen, kak ispol'zovat', varianty instrumentov)</item>
+	<item id="12">12. Mobil'noe testirovanie.</item>
+	<item id="13">13. Osobennost' iOS, Android, gajdlajny.</item>
+	<item id="14">14. Sborka iOS prilozhenij na XCode. (U kogo net Mac komp'yutera, prosto posmotryat)</item>
+	<item id="15">15. Sborka Android prilozhenij na Android Studio.</item>
+	<item id="16">16. ADB (upravlenie androjd devajsami).</item>
+	<item id="17">17. Nastrojka proksi i vpn na iOS i Android.</item>
+	<item id="18">18. Perekhvat (sniffing) mobil'nogo trafika cherez Charles i Fiddler na iOS i Android.</item>
+	<item id="19">19. Komandnaya stroka (terminal) Linux (kopirovanie, sozdanie, prosmotr, peremeshchenie fajlov na serverah bez graficheskogo interfejsa)</item>
+	<item id="20">20. Osnovy bash skripting, avtomatizaciya rutinnyh zadach na servere.</item>
+	<item id="21">21. Dostup k udalyonnym serveram.</item>
+	<item id="22">22. Osnovy SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</item>
+	<item id="23">23. Baza dannyh Postgres (ustanovka, nastrojka i ispol'zovanie).</item>
+	<item id="24">24. Nerelyacionnaya baza dannyh Redis (ustanovka, nastrojka i ispol'zovanie).</item>
+	<item id="25">25. Nagruzochnoe testirovanie v Jmeter.</item>
+	<item id="26">26. Metodologiya razrabotki Scrum.</item>
+	<item id="27"><last/>27. Python. (Izuchenie osnov. Sozdanie klient servernogo prilozheniya)</item>
+</list_of_items>
